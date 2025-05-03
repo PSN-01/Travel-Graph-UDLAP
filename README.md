@@ -49,7 +49,7 @@ This notebook works entirely within Colab using publicly available map data and 
 
 The interface is simple and interactive, designed so that users can explore routes through the UDLAP campus intuitively.
 
-(Insert image showing the final route output, if available)
-
 Project developed for academic and visualization purposes.
+
+- Pablo, Tri & Dani
 
