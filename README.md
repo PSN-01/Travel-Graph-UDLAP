@@ -15,9 +15,11 @@ The main functionality is an interactive terminal where the user can repeat mult
 
 To run this notebook successfully, you need to upload the dataset in CSV format. Follow these steps carefully.
 
-Step 1: Download the dataset in Excel format and make sure to save it as a CSV file (comma-separated values).
+Step 1: Download the dataset from the following link in Google Docs and make sure to save it as a CSV file (comma-separated values):
 
-Step 2: Open the Colab notebook that was shared with you. On the left-hand side, click the small folder icon located in the upper-left corner. A sidebar will open. Inside that sidebar, click the "Upload file" button. A file selector will appear. Choose the CSV file you saved.
+https://docs.google.com/spreadsheets/d/1PtWpKMK4ARQ-2RwRpOw9xpWH7ZLZHKoFWSaeCN5nV10/edit?usp=sharing
+
+Step 2: Open the Colab notebook that was shared with you. On the left-hand side, click the small folder icon located in the upper-left corner. A sidebar will open. Inside that sidebar, click the "Upload" button. A file selector will appear. Choose the CSV file you saved.
 
 ![Image](https://github.com/user-attachments/assets/b27e9123-cfd9-4572-95b5-6ce01f8ad66c)
 
