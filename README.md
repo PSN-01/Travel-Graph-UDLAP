@@ -41,7 +41,7 @@ Step 5: Continue running each cell from top to bottom including the new path of 
 
 Step 6: The final block of code handles the full route calculation, visualization, and statistics. You can perform multiple trips during one session. Once you’re done, the complete map with all routes will be displayed.
 
-# FINAL OUTPUT
+# Final Output
 
 ![Image](https://github.com/user-attachments/assets/a6aefc04-2be7-4f14-a188-3e861c880e21)
 
