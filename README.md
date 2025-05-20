@@ -53,5 +53,5 @@ The interface is simple and interactive, designed so that users can explore rout
 
 Project developed for academic and visualization purposes.
 
-- Pablo, Tri & Dani
+- Pablo & Tri
 
